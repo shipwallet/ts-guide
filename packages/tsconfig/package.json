@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shipwallet/TypeScript/issues"
   },
-  "homepage": "https://github.com/shipwallet/TypeScript#readme"
+  "homepage": "https://github.com/shipwallet/TypeScript#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
