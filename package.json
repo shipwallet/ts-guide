@@ -2,7 +2,13 @@
   "name": "root",
   "private": true,
   "devDependencies": {
+    "all-contributors-cli": "5.4.1",
     "lerna": "3.5.1",
     "typescript": "3.2.1"
+  },
+  "scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate",
+    "publish": "lerna publish"
   }
 }
