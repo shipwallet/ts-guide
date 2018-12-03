@@ -1,4 +1,13 @@
 {
   "packages": ["packages/*"],
-  "version": "independent"
+  "version": "independent",
+  "command": {
+    "publish": {
+      "allowBranch": "master",
+      "bump": "patch",
+      "conventionalCommits": true,
+      "message": "chore(release): Publish",
+      "ignoreChanges": ["CHANGELOG.md"]
+    }
+  }
 }

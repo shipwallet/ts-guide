@@ -5,6 +5,7 @@
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lernajs.io/)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/shipwallet/TypeScript)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 ## Table of Contents
 
@@ -36,6 +37,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 <!-- prettier-ignore -->
 | [<img src="https://avatars2.githubusercontent.com/u/9116238?v=4" width="100px;"/><br /><sub><b>Krzysztof Żuraw</b></sub>](http://krzysztofzuraw.com)<br />[💻](https://github.com/shipwallet/TypeScript/commits?author=krzysztofzuraw "Code") [📖](https://github.com/shipwallet/TypeScript/commits?author=krzysztofzuraw "Documentation") [🤔](#ideas-krzysztofzuraw "Ideas, Planning, & Feedback") [🚇](#infra-krzysztofzuraw "Infrastructure (Hosting, Build-Tools, etc)") [📦](#platform-krzysztofzuraw "Packaging/porting to new platform") |
 | :---: |
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
