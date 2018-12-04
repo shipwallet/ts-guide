@@ -1,6 +1,6 @@
 # Ingrid AB TypeScript style guide
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 [![npm](https://img.shields.io/npm/dt/:package.svg)](https://www.npmjs.com/package/@ingridab/tsconfig)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lernajs.io/)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/shipwallet/TypeScript)
@@ -35,8 +35,8 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars2.githubusercontent.com/u/9116238?v=4" width="100px;"/><br /><sub><b>Krzysztof Żuraw</b></sub>](http://krzysztofzuraw.com)<br />[💻](https://github.com/shipwallet/TypeScript/commits?author=krzysztofzuraw "Code") [📖](https://github.com/shipwallet/TypeScript/commits?author=krzysztofzuraw "Documentation") [🤔](#ideas-krzysztofzuraw "Ideas, Planning, & Feedback") [🚇](#infra-krzysztofzuraw "Infrastructure (Hosting, Build-Tools, etc)") [📦](#platform-krzysztofzuraw "Packaging/porting to new platform") | [<img src="https://avatars3.githubusercontent.com/u/9019397?v=4" width="100px;"/><br /><sub><b>Aleksandra Sikora</b></sub>](https://github.com/blackdahila)<br />[👀](#review-blackdahila "Reviewed Pull Requests") |
-| :---: | :---: |
+| [<img src="https://avatars2.githubusercontent.com/u/9116238?v=4" width="100px;"/><br /><sub><b>Krzysztof Żuraw</b></sub>](http://krzysztofzuraw.com)<br />[💻](https://github.com/shipwallet/TypeScript/commits?author=krzysztofzuraw "Code") [📖](https://github.com/shipwallet/TypeScript/commits?author=krzysztofzuraw "Documentation") [🤔](#ideas-krzysztofzuraw "Ideas, Planning, & Feedback") [🚇](#infra-krzysztofzuraw "Infrastructure (Hosting, Build-Tools, etc)") [📦](#platform-krzysztofzuraw "Packaging/porting to new platform") | [<img src="https://avatars3.githubusercontent.com/u/9019397?v=4" width="100px;"/><br /><sub><b>Aleksandra Sikora</b></sub>](https://github.com/blackdahila)<br />[👀](#review-blackdahila "Reviewed Pull Requests") | [<img src="https://avatars0.githubusercontent.com/u/19672166?v=4" width="100px;"/><br /><sub><b>jMalojlo</b></sub>](https://github.com/jMalojlo)<br />[👀](#review-jMalojlo "Reviewed Pull Requests") |
+| :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
