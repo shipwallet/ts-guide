@@ -1,0 +1,26 @@
+{
+  "projectName": "TypeScript",
+  "projectOwner": "shipwallet",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "krzysztofzuraw",
+      "name": "Krzysztof Żuraw",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9116238?v=4",
+      "profile": "http://krzysztofzuraw.com",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas",
+        "infra",
+        "platform"
+      ]
+    }
+  ]
+}
