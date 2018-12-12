@@ -4,7 +4,7 @@ This is TypeScript configuration used in Ingrid AB projects. To use it you need 
 install it first:
 
 ```shell
-npm install @ingridab/styleguide
+npm install @ingridab/tsconfig
 ```
 
 Then create `tsconfig.json` file inside your project with following contents:
@@ -22,8 +22,10 @@ If you need to override some settings:
 ```json
 {
   "extends": "@ingridab/tsconfig",
-  "paths": {
-    "~src/*": ["src/*"]
+  "compilerOptions": {
+    "paths": {
+      "~src/*": ["src/*"]
+    }
   }
 }
 ```
