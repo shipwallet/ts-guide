@@ -1,0 +1,23 @@
+{
+  "name": "@ingridab/prettier-config",
+  "version": "0.1.0",
+  "description": "Ingrid AB common prettier config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shipwallet/ts-guide.git"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "Ingrid AB Frontend Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shipwallet/ts-guide/issues"
+  },
+  "homepage": "https://github.com/shipwallet/ts-guide#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
