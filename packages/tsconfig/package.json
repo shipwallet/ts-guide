@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shipwallet/TypeScript.git"
+    "url": "git+https://github.com/shipwallet/ts-guide.git"
   },
   "keywords": [
     "TypeScript",
@@ -14,9 +14,9 @@
   "author": "Ingrid AB Frontend Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shipwallet/TypeScript/issues"
+    "url": "https://github.com/shipwallet/ts-guide/issues"
   },
-  "homepage": "https://github.com/shipwallet/TypeScript#readme",
+  "homepage": "https://github.com/shipwallet/ts-guide#readme",
   "publishConfig": {
     "access": "public"
   }
