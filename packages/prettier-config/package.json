@@ -1,14 +1,14 @@
 {
-  "name": "@ingridab/tsconfig",
-  "version": "1.0.0",
-  "description": "Ingrid AB common TypeScript config",
+  "name": "@ingridab/prettier-config",
+  "version": "0.1.0",
+  "description": "Ingrid AB common prettier config",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shipwallet/ts-guide.git"
   },
   "keywords": [
-    "TypeScript",
+    "prettier",
     "config"
   ],
   "author": "Ingrid AB Frontend Team",
