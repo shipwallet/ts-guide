@@ -1,6 +1,6 @@
 {
   "name": "@ingridab/tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ingrid AB common TypeScript config",
   "main": "index.js",
   "repository": {
