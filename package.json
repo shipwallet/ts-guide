@@ -2,10 +2,10 @@
   "name": "root",
   "private": true,
   "devDependencies": {
-    "all-contributors-cli": "5.10.2",
-    "commitizen": "3.0.5",
-    "lerna": "3.10.7",
-    "typescript": "3.2.4"
+    "all-contributors-cli": "6.6.1",
+    "commitizen": "3.1.1",
+    "lerna": "3.14.1",
+    "typescript": "3.5.1"
   },
   "scripts": {
     "contributors:add": "all-contributors add",
