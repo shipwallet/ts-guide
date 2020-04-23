@@ -17,6 +17,7 @@
 Welcome to Ingrid AB TypeScript style guide! This is mono-repo for:
 
 - [@ingridab/tsconfig](./packages/tsconfig/README.md)
+- [@ingridab/prettier-config](./packages/prettier-config/README.md)
 
 See respective READMEs for details.
 
