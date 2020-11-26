@@ -19,11 +19,11 @@ If you need to override some settings:
 
 ````js
 module.exports = Object.assign(
-  require("@ingridab/prettier-config"),
+  require("@ingridab/prettier-config/prettier.config"),
   {
     //add overrides here
     singleQuote: true,
     bracketSpacing: true,
   }
-);```
+);
 ````
